@@ -1,6 +1,6 @@
 # Airline Data Analytics
 ## Project Description:
-This project analyzes synthetic airline data using Qlik Sense to uncover key trends and insights in passenger demographics and travel patterns. By connecting and preparing the data, creating interactive visualizations, and crafting a compelling data story, the project aims to enhance airline services, optimize flight schedules, and improve customer satisfaction.
+## This project analyzes synthetic airline data using Qlik Sense to uncover key trends and insights in passenger demographics and travel patterns. By connecting and preparing the data, creating interactive visualizations, and crafting a compelling data story, the project aims to enhance airline services, optimize flight schedules, and improve customer satisfaction.
 
 
 ### Processed Dataset:
